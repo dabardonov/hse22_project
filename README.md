@@ -21,3 +21,13 @@ https://github.com/dabardonov/hse22_project/blob/main/Project.ipynb
 | Leucobacter insecticola 296| 1 | 2916402 | 2787 | 2590638 | 88.83% | 2916402 | 39637; 395578 |
 | Leucobacter muris 823| 1 | 3211982 | 3036 | 2900455 | 90.30% | 3211982 | 74272; 747268 |
 | Leucobacter triazinivorans 863| 1 | 3478815 | 3142 | 3134524 | 90.10% | 3478815 | 82742; 747268 |
+
+## Гистограммы значений ZH-score 
+
+Только для значений ZH-score > 500
+
+![1](https://user-images.githubusercontent.com/93095449/173428927-c5f119e8-2522-4ff9-90c0-ec902a5504bb.png)
+![2](https://user-images.githubusercontent.com/93095449/173428967-fb0f5060-ce44-4f66-b5b1-5421cef4ac83.png)
+![3](https://user-images.githubusercontent.com/93095449/173428976-0f8d7598-9967-4a7a-ad22-95819501b026.png)
+![4](https://user-images.githubusercontent.com/93095449/173428994-9c630794-1c47-4fea-bee4-882611623d50.png)
+![5](https://user-images.githubusercontent.com/93095449/173429006-e203f110-1ed5-4175-a4e6-19b2a4469879.png)
