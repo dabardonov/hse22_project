@@ -35,5 +35,6 @@ https://github.com/dabardonov/hse22_project/blob/main/Project.ipynb
 ## Кластеры белков!
 
 Всего кластеров оказалось 2640
-[6](https://user-images.githubusercontent.com/93095449/173429283-6f96c028-ccfb-45b5-b0bc-68490028f2da.png)
+
+![6](https://user-images.githubusercontent.com/93095449/173429283-6f96c028-ccfb-45b5-b0bc-68490028f2da.png)
 
