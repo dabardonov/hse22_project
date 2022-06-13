@@ -35,4 +35,4 @@ https://colab.research.google.com/drive/19clRVGbOtVqg9WQibrQbFFSLM1CsjA-9#scroll
 
 ![6](https://user-images.githubusercontent.com/93095449/173429283-6f96c028-ccfb-45b5-b0bc-68490028f2da.png)
 
-Я справился с созданием merged-файлов для ZH-score, сделал файлы пересечений Z-ДНК c промоторами, но дальше не справился(
+Я справился с созданием merged-файлов для ZH-score, сделал файлы пересечений Z-ДНК c промоторами, (папка intersect) но дальше не справился(
