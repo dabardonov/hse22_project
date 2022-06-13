@@ -32,9 +32,10 @@ https://github.com/dabardonov/hse22_project/blob/main/Project.ipynb
 ![4](https://user-images.githubusercontent.com/93095449/173428994-9c630794-1c47-4fea-bee4-882611623d50.png)
 ![5](https://user-images.githubusercontent.com/93095449/173429006-e203f110-1ed5-4175-a4e6-19b2a4469879.png)
 
-## Кластеры белков!
+## Кластеры белков
 
 Всего кластеров оказалось 2640
 
 ![6](https://user-images.githubusercontent.com/93095449/173429283-6f96c028-ccfb-45b5-b0bc-68490028f2da.png)
 
+Я справился с созданием merged-файлов для ZH-score, сделал файлы пересечений Z-ДНК c промоторами, но дальше не справился(
