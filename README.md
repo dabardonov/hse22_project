@@ -24,7 +24,7 @@ https://github.com/dabardonov/hse22_project/blob/main/Project.ipynb
 
 ## Гистограммы значений ZH-score 
 
-Только для значений ZH-score > 500
+Только для значений ZH-score > 500. Для несколько большего удобства по оси ординат масштаб логарифмический
 
 ![1](https://user-images.githubusercontent.com/93095449/173428927-c5f119e8-2522-4ff9-90c0-ec902a5504bb.png)
 ![2](https://user-images.githubusercontent.com/93095449/173428967-fb0f5060-ce44-4f66-b5b1-5421cef4ac83.png)
