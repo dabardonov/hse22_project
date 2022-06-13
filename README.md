@@ -4,9 +4,6 @@
 
 https://colab.research.google.com/drive/19clRVGbOtVqg9WQibrQbFFSLM1CsjA-9#scrollTo=BxcXN6cQeUz3
 
-или
-
-https://github.com/dabardonov/hse22_project/blob/main/Project.ipynb
 
 ## Данные
 
